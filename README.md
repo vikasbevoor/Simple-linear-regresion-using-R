@@ -1,2 +1,2 @@
 # Simple-linear-regresion-using-R
-Simple Linear Regression Assignment using R language
+Solved Simple Linear Regression Assignments using R language
